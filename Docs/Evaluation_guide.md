@@ -27,7 +27,9 @@ test 데이터 중 일부(비율은 비공개)를 사용하여 점수를 계산�
 
 # ⚠️ 리더보드 사용시 주의사항
 
-주어진 리더보드 데이터와 row 수가 맞지 않거나 id가 맞지 않는 경우 (주어진 제출 형식과 다른 경우), 아래와 같이 채점이 불가하며 제출이 반려됩니다.
+주어진 리더보드 데이터와 row 수가 맞지 않거나 id가 맞지 않는 경우 (주어진 제출 형식과 다른 경우), 아래와 같이 채점이 불가하며 제출이 반려됩니다.\
+리더보드에 제출할 때는 leaderboard_submission.csv 이름 형식 맞추어 제출해주세요!\
+(🚨 ML프로젝트_0조_test_submission.csv 와 leaderboard_submission.csv 는 다른 파일입니다 🚨)
 
 <p align="center">
   <img src="../asset/error.png" alt="before" width="50%"/>

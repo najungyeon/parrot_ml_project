@@ -17,9 +17,9 @@
 - `test.csv` 데이터를 기반으로 예측값을 도출하고 `submission.csv`에 작성하세요.  
 
 📊 **Dataset 구조**  
-- **train 데이터**: `10200 rows × 31 columns`  
-- **test 데이터**: `2312 rows × 31 columns`
-- **leaderboard 데이터** : `512 rows x 31 columns`
+- **train.csv**: `10200 rows × 31 columns`  
+- **test.csv**: `2312 rows × 31 columns`
+- **leaderboard.csv** : `512 rows x 31 columns`
 - **submission.csv**: `2312 rows × 2 columns` (목표 변수 `price`는 0으로 채워져 있음)  
 
 ---

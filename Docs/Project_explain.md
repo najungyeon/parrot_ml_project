@@ -18,8 +18,8 @@
 
 📊 **Dataset 구조**  
 - **train.csv**: `10200 rows × 31 columns`  
-- **test.csv**: `2312 rows × 31 columns`
-- **leaderboard.csv** : `512 rows x 31 columns`
+- **test.csv**: `2312 rows × 30 columns`
+- **leaderboard.csv** : `512 rows x 30 columns`
 - **submission.csv**: `2312 rows × 2 columns` (목표 변수 `price`는 0으로 채워져 있음)  
 
 ---

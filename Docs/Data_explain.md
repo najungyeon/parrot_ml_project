@@ -177,4 +177,4 @@ print(train.info())
 
 ---
 
-**Good Luck with Your Wine Quality Prediction! 🍷✨**
+**즐거운 와인 품질 예측 프로젝트! 🍷✨**

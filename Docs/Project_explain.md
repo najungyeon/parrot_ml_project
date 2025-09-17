@@ -20,8 +20,7 @@
 - **train 데이터**: `10200 rows × 31 columns`  
 - **test 데이터**: `1800 rows × 31 columns`  
 - **submission.csv**: `1800 rows × 2 columns` (목표 변수 `Price`는 0으로 채워져 있음)  
-- **leaderboard.csv**:
-- **leaderboard_submission
+
 ---
 
 ## 🍇 **데이터 설명 (Feature Dictionary)**  

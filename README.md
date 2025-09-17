@@ -1,4 +1,4 @@
-# 🦜 Parrot ML project!
+# 🦜 Parrot ML Project!
 
 안녕하세요, 패럿 13기 여러분!
 Machine Learning 첫 프로젝트에 참여하신 걸 환영합니다

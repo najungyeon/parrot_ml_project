@@ -52,7 +52,7 @@
 RMSE는 예측값과 실제값의 차이를 제곱한 후 평균을 내고, 그 값을 제곱근으로 변환한 값입니다. 
 수식은 다음과 같습니다:
 <p align="left">
-  <img src="../asset/RMSE.jpg" width="300"/>
+  <img src="../asset/rmse.jpg" width="300"/>
 </p>
 낮을수록 좋은 점수입니다!
 

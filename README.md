@@ -28,8 +28,8 @@ Machine Learning 첫 프로젝트에 참여하신 걸 환영합니다
 ## ⭐ 공개 테스트 데이터 리더보드 및 채점 사이트
 🔗 [리더보드](https://sgparrot.pythonanywhere.com/)
 
-Github에서 leaderboard.csv 다운로드 받으시고 해당 사이트 이용해주시면 됩니다!\
-리더보드에 올리실 때는 leaderboard_submission.csv 로 형식 맞춰 제출해주세요.
+Github에서 `leaderboard.csv` 다운로드 받으시고 해당 사이트 이용해주시면 됩니다!\
+리더보드에 올리실 때는 `leaderboard_submission.csv` 로 형식 맞춰 제출해주세요.
 
 ---
 
@@ -44,8 +44,8 @@ Github에서 leaderboard.csv 다운로드 받으시고 해당 사이트 이용�
 
 ### 📤 **제출해야 할 파일**  
 팀별 대표 1명이 아래 파일을 제출해주세요.  
-- 📝 **전체 코드** : `ML프로젝트_0조.ipynb`  
-- 📊 **예측 결과 CSV** : `ML프로젝트_0조_test_submission.csv`  
-- 🖼️ **발표 자료 (선택)** : `ML프로젝트_0조_발표자료.pptx`  
+- 📝 **`전체 코드`** : `ML프로젝트_0조.ipynb`  
+- 📊 **`예측 결과 CSV`** : `ML프로젝트_0조_test_submission.csv`  
+- 🖼️ **`발표 자료 (선택)`** : `ML프로젝트_0조_발표자료.pptx`  
 
 ---

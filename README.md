@@ -35,7 +35,8 @@ Github에서 leaderboard.csv 다운로드 받으시고 해당 사이트 이용�
 
 ## 📢 **ML 프로젝트 발표 안내**  
 
-### 🔗 **노션 주소**  👉 [노션](https://www.notion.so/13-ML-Project-2718bf6859dd80d28924c396a677b565)
+### 🔗 **노션 주소**  
+👉 [노션](https://www.notion.so/13-ML-Project-271e19063477809da21bd335ef858f5f)
 
 ### 📍 **제출 기한**  
 🗓️ **10/02 () 18:00까지**  

@@ -26,7 +26,7 @@ Machine Learning 첫 프로젝트에 참여하신 걸 환영합니다
 🔗 [채점방식](Docs/Evaluation_guide.md)  
 
 ## ⭐ 공개 테스트 데이터 리더보드 및 채점 사이트
-🔗 [리더보드]([https://script.google.com/macros/s/AKfycbxVA4ULkBQHf5q5ACxSGgueLDx7wHPMHG_jJO9h-HE3tNhmffY476QvNLYJllmClXCr/exec](https://sgparrot.pythonanywhere.com/))
+🔗 [리더보드](https://sgparrot.pythonanywhere.com/)
 
 Github에서 leaderboard.csv 다운로드 받으시고 해당 사이트 이용해주시면 됩니다!
 

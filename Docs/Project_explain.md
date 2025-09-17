@@ -1,7 +1,7 @@
 # 🍷 와인의 가격을 예측하다
 
 <p align="left">
-  <img src="../asset/wine.jpg" width="300"/>
+  <img src="../asset/wine.jpg" width="600"/>
 </p>
 
 ### 🍇 소믈리에: _"좋은 와인은 숫자로 말한다"_  
